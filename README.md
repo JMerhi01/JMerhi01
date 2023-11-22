@@ -17,9 +17,9 @@ I'm passionate about automating infrastructure and code to streamline developmen
 - Managed infrastructure on Linux
 
 ### 📫 How to reach me:
-- LinkedIn: [LinkedIn Profile](https://uk.linkedin.com/in/jaafar-merhi-16969376)
-- Email: [Email](jaafarmerhi1@hotmail.co.uk)
-- Discord: lebi#lebi
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://uk.linkedin.com/in/jaafar-merhi-16969376)](https://uk.linkedin.com/in/jaafar-merhi-16969376)
+[![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaafarmerhi1@hotmail.co.uk)](mailto:jaafarmerhi1@hotmail.co.uk)
+![Discord Badge](https://img.shields.io/badge/-lebi%23lebi-7289DA?style=flat-square&logo=Discord&logoColor=white)
 
 ### ⚡ Fun fact:
 I enjoy contributing to modding projects in my free time and creating infrastructure for the projects of friends.
