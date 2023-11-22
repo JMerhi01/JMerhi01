@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there, I'm Jaafar Merhi 👋
 
-<!--
-**JMerhi01/JMerhi01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior DevOps Engineer
 
-Here are some ideas to get you started:
+I'm passionate about automating infrastructure and code to streamline development processes. I enjoy exploring new technologies and tools in the DevOps landscape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm currently learning:
+- Advanced Terraform techniques
+- Advanced Kubernetes techniques
+- Cloud architecture and management (AWS, Azure, GCP)
+- Infrastructure as Code (IaC) using Terraform and Ansible
+
+### 💼 Career Highlights:
+- Successfully implemented CI/CD pipelines for a dummy application
+- Contributed to the automation of infrastructure deployment
+- Collaborated in a team to manage and optimise cloud-based environments
+- Managed infrastructure on Linux
+
+### 📫 How to reach me:
+- LinkedIn: [Your LinkedIn Profile](https://uk.linkedin.com/in/jaafar-merhi-16969376)
+- Email: [Your Email](jaafarmerhi1@hotmail.co.uk)
+- Discord: [Your Discord](lebi#lebi)
+
+### ⚡ Fun fact:
+I enjoy contributing to modding projects in my free time and creating infrastructure for the projects of friends.
