@@ -23,3 +23,8 @@ I'm passionate about automating infrastructure and code to streamline developmen
 
 ### ⚡ Fun fact:
 I enjoy contributing to modding projects in my free time and creating infrastructure for the projects of friends.
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JMerhi01&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMerhi01&layout=compact" />
+ 
