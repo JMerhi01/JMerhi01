@@ -22,7 +22,7 @@ I'm passionate about automating infrastructure and code to streamline developmen
 ![Discord Badge](https://img.shields.io/badge/-lebi%23lebi-7289DA?style=flat-square&logo=Discord&logoColor=white)
 
 ### ⚡ Fun fact:
-In my free time, I find joy in contributing to modding projects and designing infrastructure for my friends' projects.
+I enjoy contributing to modding projects in my free time, as well as creating infrastructure for the personal projects of friends.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=JMerhi01&theme=radical" />
 
